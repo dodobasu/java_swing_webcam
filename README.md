@@ -9,6 +9,9 @@ Download and open in Netbean 8.xx IDE
 * Java SDK 8.xx
 * NetBean IDE
 * Generic Webcam Java API http://webcam-capture.sarxos.pl/
+* Library required
+** sadsadsad
+** dasdasdasd
 
 ```
 Give examples
